@@ -60,4 +60,4 @@ def process_all_texts(rootdir):
             lemmatize_and_remove_names(path)
 
 
-process_all_texts(f"/home/polina/PycharmProjects/romantic_stories/full_dataset/novels_splitted_with_bookNLP")
+process_all_texts(f".source/novels_splitted_with_bookNLP")
